@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{
+    background: #62374e;
+}
+
+div{
+    height: 50px;
+    width: 50px;
+    background: #fdc57b;
+}
+
+.first{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.sec{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.three{
+     margin-top: -300px;
+     margin-left: 900px;
+}
+
+.four{
+    margin-top: 200px;
+    margin-left: 900px;
+
+}
